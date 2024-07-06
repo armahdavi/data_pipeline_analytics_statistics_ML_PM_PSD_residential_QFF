@@ -2,9 +2,9 @@
 This repository summarizes all the data pipelines, data pre-processing codes, statistical models, descriptive statistics, plot visualizations, and ML modelings from Mahdavi & Siegel (2020) (Idoor Air)  
 Project Milestone: 2017 - 2020  
 
-## PSD and Concnetrations: Two Important Determinant of Health Effects of Exposure to PM
+## PSD and Concentration: Two Important Determinants of Health Effects of Exposure to PM
 
-Particle size distribution (PSD) and concentration are two of the most important features of particulate matter (PM). which is responsible for a great loss of life from exposure by inhalation, dermal contact, or ingestion. Samples of PM can be found and studied in the dust collected on HVAC filters in residential buildings. Therefore, the application of HVAC filters in collecing and analyzign PM indoors is a useful and cost-effective strategy.
+Particle size distribution (PSD) and concentration are two of the most important features of particulate matter (PM). which is responsible for a great loss of life from exposure by inhalation, dermal contact, or ingestion. Samples of PM can be found and studied in the dust collected on HVAC filters in residential buildings. Therefore, the application of HVAC filters in collecting and analyzing PM indoors is a useful and cost-effective strategy.
 
 ## The Hidden Story in Our Air Filters
 
