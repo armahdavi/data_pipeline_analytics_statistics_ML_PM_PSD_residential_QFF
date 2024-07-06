@@ -1,6 +1,6 @@
 ## Summary
 This repository summarizes all the data pipelines, data pre-processing codes, statistical models, descriptive statistics, plot visualizations, and ML modelings from Mahdavi & Siegel (2020) (Indoor Air)  
-Project Milestone: 2017 - 2020  
+Project Milestone: 2017 - 2021  
 
 ## PSD and Concentration: Two Important Determinants of the Health Effects of Exposure to PM
 
